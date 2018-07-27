@@ -2,7 +2,7 @@
  <head> <title>My name yujie</title>
    <style type="text/css">
      body{
-          background-image:url(0.jpg);
+          background-image:url();
           background-size:100% 100%;
           height:100%;
      }
@@ -22,7 +22,7 @@
    
    
    
-  </head><body>
+  </head><body><img src="0.jpg">
   我叫yujie
   
   <p>what you name？</p>
